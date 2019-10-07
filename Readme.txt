@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: NewBiz
-Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Official Website of TRIAC 2019 conducating by IEEE IAS/PES/ComSoc Of IEEE Kerala Section
